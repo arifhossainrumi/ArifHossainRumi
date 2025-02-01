@@ -56,8 +56,7 @@
 ---
 
 ## 🎓 Certifications  
-
-📜 Excel Basics for Data Analysis[!🔗](https://coursera.org/share/aac24f009098e95bbda0f8a2bc5541aa)
+📜 Excel Basics for Data Analysis[🔗](https://coursera.org/share/aac24f009098e95bbda0f8a2bc5541aa)
 📜 **IBM Python for Data Science**  
 📜 **Microsoft Power BI Data Analyst**  
  
