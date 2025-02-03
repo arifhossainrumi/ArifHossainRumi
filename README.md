@@ -44,15 +44,22 @@
 ## 🔥 Projects  
 
 ### 📊 **E-commerce Sales Analysis** [🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
+
 ✅	Conducted data cleaning, preprocessing, and exploratory data analysis (EDA) to uncover sales trends and customer purchasing behavior. 
+
 ✅	Implemented forecasting models using time series techniques to predict future sales and optimize inventory management.
+
 ✅	Visualized key insights on sales patterns and delivery performance using Matplotlib and Seaborn. 
+
 🛠	Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Time Series Analysis, Jupyter Notebook.
 
 
 ### 🏠 **Dhaka House Rent Prediction**  
+
 ✅ Cleaned and analyzed rental data to find key factors influencing rent prices  
-✅ Built **Regression Models** (Linear Regression, Random Forest) for rent prediction  
+
+✅ Built **Regression Models** (Linear Regression, Random Forest) for rent prediction 
+
 🛠 **Tools:** Python, Pandas, NumPy, Seaborn, Plotly, Scikit-learn  
 
 ---
