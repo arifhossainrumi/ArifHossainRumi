@@ -43,10 +43,12 @@
 
 ## 🔥 Projects  
 
-### 📊 **Sales Performance Dashboard**  
-✅ Designed an **interactive dashboard** using **Power BI** with **KPIs, bar charts, and slicers**  
-✅ Analyzed sales data to uncover insights for stakeholders  
-🛠 **Tools:** Power BI, DAX, Excel  
+### 📊 **E-commerce Sales Analysis** [🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
+✅	Conducted data cleaning, preprocessing, and exploratory data analysis (EDA) to uncover sales trends and customer purchasing behavior. 
+✅	Implemented forecasting models using time series techniques to predict future sales and optimize inventory management.
+✅	Visualized key insights on sales patterns and delivery performance using Matplotlib and Seaborn. 
+🛠	Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Time Series Analysis, Jupyter Notebook.
+
 
 ### 🏠 **Dhaka House Rent Prediction**  
 ✅ Cleaned and analyzed rental data to find key factors influencing rent prices  
