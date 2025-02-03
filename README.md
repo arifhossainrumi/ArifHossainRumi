@@ -1,6 +1,6 @@
 <!-- Header with a banner -->
 <p align="center">
-  <img src="https://github.com/ArifHossainRumi/ArifHossainRumi/blob/main/banner.gif" alt="Welcome to My GitHub Profile" width="100%" />
+  <img src="banner/banner.png" alt="Welcome to My GitHub Profile" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Md. Arif Hossain Rumi! 👋</h1>
