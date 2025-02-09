@@ -39,37 +39,65 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### 🔹 **Version Control & Collaboration**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 🔥 Projects  
 
 ### 📊 **E-commerce Sales Analysis** [🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
 
-✅	Conducted data cleaning, preprocessing, and exploratory data analysis (EDA) to uncover sales trends and customer purchasing behavior. 
+✅ Cleaned and processed sales data, performing EDA to uncover trends and understand customer buying behavior.
 
-✅	Implemented forecasting models using time series techniques to predict future sales and optimize inventory management.
+✅ Built time series forecasting models to predict future sales and improve inventory planning.
 
-✅	Visualized key insights on sales patterns and delivery performance using Matplotlib and Seaborn. 
+✅ Created insightful visualizations to analyze sales patterns and delivery performance using Matplotlib and Seaborn.
 
-🛠	Tools: Python (Pandas, NumPy, Matplotlib, Seaborn), Time Series Analysis, Jupyter Notebook.
+🛠 Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn), Time Series Analysis, Jupyter Notebook.
 
 
 
-### 🏠 **Dhaka House Rent Prediction**  
+### 🏠 **Dhaka House Rent Prediction**  [🔗](https://github.com/arifhossainrumi/House_price_Prediction)
 
-✅ Cleaned and analyzed rental data to find key factors influencing rent prices  
 
-✅ Built **Regression Models** (Linear Regression, Random Forest) for rent prediction 
+✅ Collected, cleaned, and analyzed rental data to identify key factors affecting house rent.  
 
-🛠 **Tools:** Python, Pandas, NumPy, Seaborn, Plotly, Scikit-learn  
+✅ Developed predictive models (Linear Regression) to estimate rental prices accurately.
+
+✅ Created a Flask API to serve predictions and make the model accessible.
+
+✅ Designed and built a responsive web app using Flutter Web, allowing users to check rent predictions effortlessly.
+
+🛠 Tech Stack: Python, Pandas, NumPy, Seaborn, Plotly, Scikit-learn, Flask API, Flutter Web
 
 ---
 
+### KEY ACHIEVEMENTS
+### 🚀 **Dhaka House Rent Prediction**
+
+✅ Successfully implemented predictive models to forecast Dhaka house rent.
+
+### 🌍 **Live Demo**
+🚀 Check out the live project here: (https://arifhossainrumi.github.io/)
+
+---
 ## 🎓 Certifications  
 
 📜 **IBM Python for Data Science**  
 📜 **Microsoft Power BI Data Analyst**  
 📜 Excel Basics for Data Analysis [🔗](https://coursera.org/share/aac24f009098e95bbda0f8a2bc5541aa)
+ 
+
+---
+
+### 📝 Relevant Courses  
+🔸 Fundamentals of Statistics  
+🔸 Data Structures  
+🔸 Operating System  
+🔸 Database Management System  
+🔸 Data Analysis with Excel  
  
 
 ---
