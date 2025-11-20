@@ -53,7 +53,7 @@
 
 ✅ Analyzed 3,900 customer transactions totaling $233K revenue, identifying key drivers of loyalty, subscription value, and promotional effectiveness using Python (pandas, seaborn, matplotlib) and PostgreSQL
 
-✅ Built a Random Forest Classifier (AUC = 1.000) to predict discount usage and K-Means clustering model to segment customers into 4 high-value groups (Loyal High-Spenders, Discount Seekers, At-Risk, Occasional Buyers)
+✅ Built a Random Forest Classifier (AUC = 0.8283) to predict discount usage and K-Means clustering model to segment customers into 4 high-value groups (Loyal High-Spenders, Discount Seekers, At-Risk, Occasional Buyers)
 
 ✅ Designed an interactive single-page Power BI dashboard with synchronized slicers, a U.S. geographic map, KPI cards, and conditional formatting – enabling self-service insights for marketing and merchandising teams
 
