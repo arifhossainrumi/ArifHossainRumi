@@ -47,6 +47,21 @@
 
 ## 🔥 Projects  
 
+### Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  [🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
+#### End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
+
+
+✅ Analyzed 3,900 customer transactions totaling $233K revenue, identifying key drivers of loyalty, subscription value, and promotional effectiveness using Python (pandas, seaborn, matplotlib) and PostgreSQL
+
+✅ Built a Random Forest Classifier (AUC = 1.000) to predict discount usage and K-Means clustering model to segment customers into 4 high-value groups (Loyal High-Spenders, Discount Seekers, At-Risk, Occasional Buyers)
+
+✅ Designed an interactive single-page Power BI dashboard with synchronized slicers, a U.S. geographic map, KPI cards, and conditional formatting – enabling self-service insights for marketing and merchandising teams
+
+✅ Delivered 6 strategic recommendations (inventory optimization, targeted discounting, geographic expansion, premium shipping bundling) projected to drive 15–22% revenue uplift ($35K–$51K annually)
+
+🛠 Tech Stack: Python → SQL (PostgreSQL) → Power BI (DAX) → Machine Learning
+
+
 ### 📊 **E-commerce Sales Analysis** [🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
 
 ✅ Cleaned and processed sales data, performing EDA to uncover trends and understand customer buying behavior.
