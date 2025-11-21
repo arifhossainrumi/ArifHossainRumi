@@ -1,4 +1,4 @@
-Customerder with a banner -->
+
 <p align="center">
   <img src="banner/banner.png" alt="Welcome to My GitHub Profile" width="100%" />
 </p>
