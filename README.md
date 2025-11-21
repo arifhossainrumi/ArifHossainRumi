@@ -1,4 +1,4 @@
-<!-- Header with a banner -->
+Customerder with a banner -->
 <p align="center">
   <img src="banner/banner.png" alt="Welcome to My GitHub Profile" width="100%" />
 </p>
@@ -47,8 +47,8 @@
 
 ## 🔥 Projects  
 
-### Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  [🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
-#### End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
+### 📈 Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  [🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
+#### 🗃️ End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
 
 
 ✅ Analyzed 3,900 customer transactions totaling $233K revenue, identifying key drivers of loyalty, subscription value, and promotional effectiveness using Python (pandas, seaborn, matplotlib) and PostgreSQL
