@@ -4,7 +4,18 @@ Welcome to my complete project catalog. Here I document my journey in Data Analy
 
 ---
 
-### 1. 📈 Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  [🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
+### 1.🚖 [Dhaka Ride-Hailing Analytics (End-to-End Analysis)🔗](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow?style=flat-square&logo=powerbi)
+
+> **Goal:** Simulated and analyzed a 5-year ecosystem of Dhaka's ride-sharing market to optimize profitability and operations amidst traffic challenges.
+
+* **🛠 Data Simulation:** Engineered a hyper-realistic dataset of **50,000+ trips** (2021–2025) using **Python**, incorporating complex logic for inflation, annual traffic decay, and seasonal weather patterns.
+* **📊 Strategic Analysis:** Executed advanced **SQL** queries (Window Functions, CTEs) to identify that **surge pricing drives 83.7% of revenue**, validating traffic gridlock as the primary monetization lever.
+* **📉 Visualization & Insight:** Designed a dark-themed **Power BI** executive dashboard revealing a **28% speed drop** during Monsoon season (June–Sept), leading to data-driven fleet allocation strategies.
+
+
+
+### 2. 📈 [Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
 #### 🗃️ End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
 
 
@@ -19,7 +30,7 @@ Welcome to my complete project catalog. Here I document my journey in Data Analy
 🛠 Tech Stack: Python → SQL (PostgreSQL) → Power BI (DAX) → Machine Learning
 
 
-### 2.  📊 **E-commerce Sales Analysis** [🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
+### 3. 📊 [**E-commerce Sales Analysis** 🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
 
 ✅ Cleaned and processed sales data, performing EDA to uncover trends and understand customer buying behavior.
 
@@ -31,7 +42,7 @@ Welcome to my complete project catalog. Here I document my journey in Data Analy
 
 
 
-### 3.  🏠 **Dhaka House Rent Prediction**  [🔗](https://github.com/arifhossainrumi/House_price_Prediction)
+### 4. 🏠 [**Dhaka House Rent Prediction**  🔗](https://github.com/arifhossainrumi/House_price_Prediction)
 
 
 ✅ Collected, cleaned, and analyzed rental data to identify key factors affecting house rent.  
