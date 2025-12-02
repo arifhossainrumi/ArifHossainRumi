@@ -9,7 +9,7 @@ Welcome to my complete project catalog. Here I document my journey in Data Analy
 
 > **Goal:** Simulated and analyzed a 5-year ecosystem of Dhaka's ride-sharing market to optimize profitability and operations amidst traffic challenges.
 
-* **🛠 Data Simulation:** Engineered a hyper-realistic dataset of **50,000+ trips** (2021–2025) using **Python**, incorporating complex logic for inflation, annual traffic decay, and seasonal weather patterns.
+* **🛠 Data Simulation:** Engineered a hyper-realistic dataset of **15,000+ trips** (2021–2025) using **Python**, incorporating complex logic for inflation, annual traffic decay, and seasonal weather patterns.
 * **📊 Strategic Analysis:** Executed advanced **SQL** queries (Window Functions, CTEs) to identify that **surge pricing drives 83.7% of revenue**, validating traffic gridlock as the primary monetization lever.
 * **📉 Visualization & Insight:** Designed a dark-themed **Power BI** executive dashboard revealing a **28% speed drop** during Monsoon season (June–Sept), leading to data-driven fleet allocation strategies.
 
