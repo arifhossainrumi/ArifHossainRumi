@@ -89,6 +89,9 @@
 
 ---
 
+### 📂 [Explore All My Projects ➡️](./PROJECTS.md)
+
+---
 ### KEY ACHIEVEMENTS
 ### 🚀 **Dhaka House Rent Prediction**
 
