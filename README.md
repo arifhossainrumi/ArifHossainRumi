@@ -1,144 +1,112 @@
-
 <p align="center">
-  <img src="banner/banner.png" alt="Welcome to My GitHub Profile" width="100%" />
+  <img src="banner/banner.png" alt="GitHub profile banner for Md. Arif Hossain Rumi" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Md. Arif Hossain Rumi! 👋</h1>
+<h1 align="center">Hi, I'm Md. Arif Hossain Rumi 👋</h1>
 
 <p align="center">
-  🔍 <b>Data Analyst | Data Enthusiast | Problem Solver</b>
-</p>
-
----
-
-## 📊 About Me  
-🎓 **Bachelor's in Computer Science & Engineering**  
-🔬 Passionate about **data analysis, machine learning, and visualization**  
-📊 Love working with **Power BI, Tableau, and Python** to uncover insights  
-🚀 Currently improving my **SQL & data engineering skills**  
-
----
-
-## 🚀 Skills & Tools  
-
-### 🔹 **Programming & Databases**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🔹 **Data Analysis & Visualization**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4E98A5?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🔹 **BI & Dashboarding**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🔹 **Version Control & Collaboration**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🔥 Projects  
-
-### 🚖 [Dhaka Ride-Hailing Analytics (End-to-End Analysis)🔗](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow?style=flat-square&logo=powerbi)
-
-> **Goal:** Simulated and analyzed a 5-year ecosystem of Dhaka's ride-sharing market to optimize profitability and operations amidst traffic challenges.
-
-* **🛠 Data Simulation:** Engineered a hyper-realistic dataset of **15,000+ trips** (2021–2025) using **Python**, incorporating complex logic for inflation, annual traffic decay, and seasonal weather patterns.
-* **📊 Strategic Analysis:** Executed advanced **SQL** queries (Window Functions, CTEs) to identify that **surge pricing drives 83.7% of revenue**, validating traffic gridlock as the primary monetization lever.
-* **📉 Visualization & Insight:** Designed a dark-themed **Power BI** executive dashboard revealing a **28% speed drop** during Monsoon season (June–Sept), leading to data-driven fleet allocation strategies.
-
-
-
-### 📈 [Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
-#### 🗃️ End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
-
-
-✅ Analyzed 3,900 customer transactions totaling $233K revenue, identifying key drivers of loyalty, subscription value, and promotional effectiveness using Python (pandas, seaborn, matplotlib) and PostgreSQL
-
-✅ Built a Random Forest Classifier (AUC = 0.8283) to predict discount usage and K-Means clustering model to segment customers into 4 high-value groups (Loyal High-Spenders, Discount Seekers, At-Risk, Occasional Buyers)
-
-✅ Designed an interactive single-page Power BI dashboard with synchronized slicers, a U.S. geographic map, KPI cards, and conditional formatting – enabling self-service insights for marketing and merchandising teams
-
-✅ Delivered 6 strategic recommendations (inventory optimization, targeted discounting, geographic expansion, premium shipping bundling) projected to drive 15–22% revenue uplift ($35K–$51K annually)
-
-🛠 Tech Stack: Python → SQL (PostgreSQL) → Power BI (DAX) → Machine Learning
-
-
-
-### 🏠 [**Dhaka House Rent Prediction**  🔗](https://github.com/arifhossainrumi/House_price_Prediction)
-
-
-✅ Collected, cleaned, and analyzed rental data to identify key factors affecting house rent.  
-
-✅ Developed predictive models (Linear Regression) to estimate rental prices accurately.
-
-✅ Created a Flask API to serve predictions and make the model accessible.
-
-✅ Designed and built a responsive web app using Flutter Web, allowing users to check rent predictions effortlessly.
-
-🛠 Tech Stack: Python, Pandas, NumPy, Seaborn, Plotly, Scikit-learn, Flask API, Flutter Web
-
----
-
-### 📂 [Explore All My Projects ➡️](./PROJECTS.md)
-
----
-### KEY ACHIEVEMENTS
-### 🚀 **Dhaka House Rent Prediction**
-
-✅ Successfully implemented predictive models to forecast Dhaka house rent.
-
-### 🌍 **Live Demo**
-🚀 Check out the live project here: (https://arifhossainrumi.github.io/)
-
----
-## 🎓 Certifications  
-
-📜 **IBM Python for Data Science**  
-📜 **Microsoft Power BI Data Analyst**  
-📜 Excel Basics for Data Analysis [🔗](https://coursera.org/share/aac24f009098e95bbda0f8a2bc5541aa)
- 
-
----
-
-### 📝 Relevant Courses  
-🔸 Fundamentals of Statistics  
-🔸 Data Structures  
-🔸 Operating System  
-🔸 Database Management System  
-🔸 Data Analysis with Excel  
- 
-
----
-
-## 📫 Let's Connect!  
-🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-hossain-rumi-13156917b)  
-📧 **Email:** arifhossainrumi@gmail.com  
-💻 **GitHub:** [ArifHossainRumi](https://github.com/ArifHossainRumi)  
-
----
-
-### 🚀 **Fun Fact**  
-*"I love exploring emerging trends in data analytics and creating beautiful visualizations!"*  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArifHossainRumi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <strong>Software Engineer | Full-Stack Developer</strong><br/>
+  Based in Bangladesh · Building reliable, practical web applications
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifHossainRumi&theme=radical" alt="GitHub Streak">
+  <a href="https://arifhossainrumi.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/arifhossainrumi/">LinkedIn</a> ·
+  <a href="mailto:arifhossainrumi@gmail.com">Email</a>
 </p>
 
 ---
 
+## About me
 
+I'm a software engineer working mainly with **Next.js, React, TypeScript, and MongoDB**. I enjoy the full process of building software: shaping the interface, designing server-side logic, working with data, and making sure things keep running after deployment.
 
+My current hands-on work includes **NestaMart**, a live e-commerce platform I built and maintain, and **Clydria**, a website project in active development. I also have a background in data analysis, which helps me think about products from both an engineering and business perspective.
+
+- **Focus:** Full-stack web development, maintainable architecture, performance, and application security
+- **Currently working on:** E-commerce workflows, reusable UI components, and responsive web experiences
+- **Education:** B.Sc. in Computer Science & Engineering, University of Liberal Arts Bangladesh (ULAB), Fall 2022
+
+## Tech stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+**Backend, data & infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Tools & previous data work**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+## Featured work
+
+### [NestaMart — Full-Stack E-commerce Platform](https://nestamart.com) · Live
+
+A custom e-commerce platform for customers in Bangladesh, built with **Next.js, React, TypeScript, MongoDB, and Mongoose**.
+
+- Developed the storefront, product discovery, cart, checkout, order management, and inventory workflows.
+- Built server-side business logic, customer authentication, and role-based access for administrative features.
+- Worked on API security, SEO, analytics, deployment, and day-to-day maintenance.
+- Organized the application around separated feature and business responsibilities within a modular full-stack architecture.
+
+**Stack:** Next.js · React · TypeScript · MongoDB · Mongoose · Auth.js · Vercel · Cloudflare
+
+### Clydria — Digital Studio Website · In development
+
+Building a responsive website with an emphasis on typography, interaction, reusable components, and clear service presentation.
+
+- Implementing the frontend with **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**.
+- Documenting engineering decisions and feature boundaries before expanding the application.
+- Refining desktop and mobile experiences with accessibility and performance in mind.
+
+**Status:** Active development; not presented as a completed client project.
+
+### [Dhaka House Rent Prediction](https://github.com/arifhossainrumi/House_price_Prediction) · ML + Web Application
+
+Built a rental-price prediction project combining **Python and scikit-learn** for modeling, a **Flask API** for predictions, and a **Flutter Web** interface.
+
+## Earlier data analytics projects
+
+Before focusing on full-stack engineering, I worked on analytics and visualization projects using Python, SQL, and Power BI.
+
+- **[Dhaka Ride-Hailing Analysis](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)** — Analyzed a *simulated* dataset of 15,000+ ride records, using Python, SQL, and Power BI to explore revenue patterns and traffic conditions.
+- **[Customer Shopping Behavior Analysis](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)** — Explored 3,900 retail transactions, built customer segments and a predictive model, and presented findings in Power BI.
+
+[See my earlier analytics project portfolio →](./PROJECTS.md)
+
+## Learning & certifications
+
+- IBM Python for Data Science
+- Microsoft Power BI Data Analyst
+- [Excel Basics for Data Analysis](https://coursera.org/share/aac24f009098e95bbda0f8a2bc5541aa)
+
+## Get in touch
+
+I enjoy connecting with developers, designers, and people working on useful digital products.
+
+- **LinkedIn:** [arifhossainrumi](https://www.linkedin.com/in/arifhossainrumi/)
+- **Portfolio:** [arifhossainrumi.com](https://arifhossainrumi.com)
+- **Email:** [arifhossainrumi@gmail.com](mailto:arifhossainrumi@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Building thoughtfully, learning continuously.</sub>
+</p>
