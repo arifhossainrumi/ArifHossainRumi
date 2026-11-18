@@ -1,59 +1,136 @@
-# 📂 Project Portfolio
+# Project Portfolio
 
-Welcome to my complete project catalog. Here I document my journey in Data Analytics using Python, SQL, and Power BI.
+A curated view of the products, experiments, and analytical work I've built or am developing. It spans full-stack engineering, financial tools, game prototyping, and earlier data science work.
+
+**Status matters:** Live products, in-development work, and prototypes are labeled separately. Some repositories are private, so those projects are described without source links or confidential implementation details.
+
+[← Back to GitHub profile](./README.md)
+
+---
+
+## Product engineering & full-stack platforms
+
+### 1. [NestaMart — Full-Stack E-commerce Platform](https://nestamart.com)
+
+**Status:** Live · **Role:** Founder, full-stack engineering and product operations
+
+A custom e-commerce platform and operating storefront for a baby-care and maternity business in Bangladesh.
+
+- **Commerce:** Product discovery, cart and checkout, ordering, inventory, and administrative workflows.
+- **Operations:** Courier integration, role-based access, order handling, and ongoing maintenance.
+- **Engineering:** Security controls, analytics, technical SEO, deployment, and performance improvements.
+
+**Stack:** Next.js · React · TypeScript · MongoDB / Mongoose · Auth.js · Vercel · Cloudflare
+
+**Explore:** [Live website](https://nestamart.com) · Source repository is private.
+
+### 2. Amar Shanchay — Financial & Business Operating System
+
+**Status:** In development · **Source:** Private repository
+
+A modular platform exploring the connections between personal finance, shared-living management, and small-business operations.
+
+- **Personal finance:** Income/expense tracking, accounts, budgeting, savings goals, liabilities, investment tracking, and reports.
+- **Shared living:** Member roles, meals, shared market expenses, room-related allocations, and monthly settlement workflows.
+- **Business workspace:** Customer/supplier records, inventory, sales/purchases, financial workflows, and industry-specific modules for retail-oriented businesses.
+- **Product approach:** Reusable workspaces, reporting, sandbox/demo experiences, and AI-assisted financial features.
+
+**Stack:** React · TypeScript · Firebase / Firestore · Tailwind CSS
+
+Development work is not presented as a publicly released or externally validated product.
+
+### 3. Clydria — Digital Design & Engineering Studio
+
+**Status:** In development / pre-launch · **Source:** Private repository
+
+My digital studio project, focused on custom websites, e-commerce experiences, and web applications. The studio website is also an ongoing frontend and product-design effort.
+
+- Building a responsive site with an emphasis on typography, layout, animation, and clear services.
+- Designing reusable UI patterns and documenting architectural choices.
+- Iterating on accessibility, responsiveness, and implementation quality.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+This is an owned studio initiative, not a completed client case study.
 
 ---
 
-### 1.🚖 [Dhaka Ride-Hailing Analytics (End-to-End Analysis)🔗](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow?style=flat-square&logo=powerbi)
+## Prototypes & independent engineering work
 
-> **Goal:** Simulated and analyzed a 5-year ecosystem of Dhaka's ride-sharing market to optimize profitability and operations amidst traffic challenges.
+### 4. The Lost Atlas — 2D Puzzle Adventure
 
-* **🛠 Data Simulation:** Engineered a hyper-realistic dataset of **15,000+ trips** (2021–2025) using **Python**, incorporating complex logic for inflation, annual traffic decay, and seasonal weather patterns.
-* **📊 Strategic Analysis:** Executed advanced **SQL** queries (Window Functions, CTEs) to identify that **surge pricing drives 83.7% of revenue**, validating traffic gridlock as the primary monetization lever.
-* **📉 Visualization & Insight:** Designed a dark-themed **Power BI** executive dashboard revealing a **28% speed drop** during Monsoon season (June–Sept), leading to data-driven fleet allocation strategies.
+**Status:** Playable prototype / ongoing development · **Source:** Private repository
 
+An original Android-first, treasure-hunting puzzle adventure built with Godot.
 
+- Implemented a small exploration loop with tap-to-move and desktop controls.
+- Added clue discovery, artifact inspection, a symbol-ordering puzzle, hints, and feedback.
+- Developed responsive UI and conducted early Android device testing.
 
-### 2. 📈 [Customer Shopping Behavior Analysis – Fashion E-Commerce Retail  🔗](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
-#### 🗃️ End-to-End Analytics Project | Python · SQL · Power BI · Scikit-learn · Predictive Modeling
+**Stack:** Godot 4 · GDScript
 
+The current work is a bounded prototype, not a published game or complete multi-location adventure.
 
-✅ Analyzed 3,900 customer transactions totaling $233K revenue, identifying key drivers of loyalty, subscription value, and promotional effectiveness using Python (pandas, seaborn, matplotlib) and PostgreSQL
+### 5. Personal Portfolio V2 — Self-managed Portfolio Platform
 
-✅ Built a Random Forest Classifier (AUC = 0.8283) to predict discount usage and K-Means clustering model to segment customers into 4 high-value groups (Loyal High-Spenders, Discount Seekers, At-Risk, Occasional Buyers)
+**Status:** In development · **Source:** Private repository
 
-✅ Designed an interactive single-page Power BI dashboard with synchronized slicers, a U.S. geographic map, KPI cards, and conditional formatting – enabling self-service insights for marketing and merchandising teams
+A new portfolio intended to combine a strong public-facing experience with a self-managed content system.
 
-✅ Delivered 6 strategic recommendations (inventory optimization, targeted discounting, geographic expansion, premium shipping bundling) projected to drive 15–22% revenue uplift ($35K–$51K annually)
+- Developed the public experience and structured service-specific pages.
+- Added SEO, accessibility, CI, test coverage, security checks, and preview-environment safeguards.
+- Established a guarded PostgreSQL/Drizzle foundation; admin authentication and the content-management experience are not yet live.
 
-🛠 Tech Stack: Python → SQL (PostgreSQL) → Power BI (DAX) → Machine Learning
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Neon PostgreSQL · Drizzle ORM
 
-
-### 3. 📊 [**E-commerce Sales Analysis** 🔗](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
-
-✅ Cleaned and processed sales data, performing EDA to uncover trends and understand customer buying behavior.
-
-✅ Built time series forecasting models to predict future sales and improve inventory planning.
-
-✅ Created insightful visualizations to analyze sales patterns and delivery performance using Matplotlib and Seaborn.
-
-🛠 Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn), Time Series Analysis, Jupyter Notebook.
-
-
-
-### 4. 🏠 [**Dhaka House Rent Prediction**  🔗](https://github.com/arifhossainrumi/House_price_Prediction)
-
-
-✅ Collected, cleaned, and analyzed rental data to identify key factors affecting house rent.  
-
-✅ Developed predictive models (Linear Regression) to estimate rental prices accurately.
-
-✅ Created a Flask API to serve predictions and make the model accessible.
-
-✅ Designed and built a responsive web app using Flutter Web, allowing users to check rent predictions effortlessly.
-
-🛠 Tech Stack: Python, Pandas, NumPy, Seaborn, Plotly, Scikit-learn, Flask API, Flutter Web
+The existing public portfolio domain is not claimed here as a deployment of V2.
 
 ---
-*⬅️ [Back to Main Profile](https://github.com/arifhossainrumi)*
+
+## Data analytics & machine learning
+
+### 6. [Dhaka House Rent Prediction](https://github.com/arifhossainrumi/House_price_Prediction)
+
+**Status:** Earlier ML / web application project
+
+- Explored Dhaka rental listings and prepared features such as area, bedrooms, bathrooms, and location.
+- Built a rental-price prediction model and a Flask prediction API.
+- Created a Flutter Web interface for interacting with the model.
+
+**Stack:** Python · Pandas · scikit-learn · Flask · Flutter Web
+
+### 7. [Dhaka Ride-Hailing Analysis](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)
+
+**Status:** Earlier analytics project · **Dataset:** Simulated, not real-world operator data
+
+- Generated and analyzed 15,000+ synthetic ride records spanning a modeled five-year period.
+- Used SQL and Python to study revenue, traffic, pricing, and seasonal effects.
+- Presented analysis through Power BI dashboards.
+
+**Stack:** Python · PostgreSQL / SQL · Power BI
+
+### 8. [Customer Shopping Behavior Analysis](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)
+
+**Status:** Earlier analytics / machine learning project
+
+- Analyzed 3,900 retail customer transactions and purchasing patterns.
+- Applied segmentation and predictive modeling to explore customer behavior.
+- Built an interactive Power BI dashboard to communicate findings.
+
+**Stack:** Python · SQL / PostgreSQL · scikit-learn · Power BI
+
+### 9. [E-commerce Sales Analysis](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)
+
+**Status:** Earlier exploratory analytics project
+
+- Cleaned sales records and analyzed sales, profit, product categories, discounts, and customer segments.
+- Explored order-processing and shipping performance, plus sales forecasting.
+- Built charts and summaries in Python notebooks.
+
+**Stack:** Python · Pandas · NumPy · Matplotlib · Jupyter
+
+---
+
+This catalog highlights meaningful work rather than treating every experimental or duplicate repository as a separate product.
+
+[← Back to GitHub profile](./README.md)
