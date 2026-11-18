@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Md. Arif Hossain Rumi 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | Full-Stack Developer</strong><br/>
-  Based in Bangladesh · Building reliable, practical web applications
+  <strong>Software Engineer | Full-Stack Developer | Product Builder</strong><br/>
+  Based in Bangladesh · Building practical, reliable software for real-world needs
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ## About me
 
-I'm a software engineer working mainly with **Next.js, React, TypeScript, and MongoDB**. I enjoy the full process of building software: shaping the interface, designing server-side logic, working with data, and making sure things keep running after deployment.
+I'm a software engineer who enjoys building products end to end—from interfaces and backend logic to data models, security, deployment, and ongoing improvements. My main focus is **Next.js, React, TypeScript, and full-stack web engineering**.
 
-My current hands-on work includes **NestaMart**, a live e-commerce platform I built and maintain, and **Clydria**, a website project in active development. I also have a background in data analysis, which helps me think about products from both an engineering and business perspective.
+I build and maintain **NestaMart**, a live e-commerce business, while developing **Amar Shanchay**, a modular finance and business platform, and **Clydria**, my digital design and engineering studio. I also explore game development and bring an earlier background in data analysis and machine learning to my work.
 
-- **Focus:** Full-stack web development, maintainable architecture, performance, and application security
-- **Currently working on:** E-commerce workflows, reusable UI components, and responsive web experiences
+- **Focus:** Full-stack product engineering, maintainable architecture, performance, security, and useful user experiences
+- **Currently building:** E-commerce systems, financial workflows, studio experiences, and a self-managed portfolio
 - **Education:** B.Sc. in Computer Science & Engineering, University of Liberal Arts Bangladesh (ULAB), Fall 2022
 
 ## Tech stack
@@ -42,54 +42,74 @@ My current hands-on work includes **NestaMart**, a live e-commerce platform I bu
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Tools & previous data work**
+**Tools, games & previous data work**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 ## Featured work
 
 ### [NestaMart — Full-Stack E-commerce Platform](https://nestamart.com) · Live
 
-A custom e-commerce platform for customers in Bangladesh, built with **Next.js, React, TypeScript, MongoDB, and Mongoose**.
+A custom e-commerce platform serving customers in Bangladesh, built and maintained as an ongoing product and business.
 
-- Developed the storefront, product discovery, cart, checkout, order management, and inventory workflows.
-- Built server-side business logic, customer authentication, and role-based access for administrative features.
-- Worked on API security, SEO, analytics, deployment, and day-to-day maintenance.
-- Organized the application around separated feature and business responsibilities within a modular full-stack architecture.
+- Developed product discovery, checkout, order handling, inventory, and administrative workflows.
+- Built authentication, role-based permissions, integrations with delivery operations, and server-side business logic.
+- Worked across SEO, analytics, application security, performance, deployment, and maintenance.
 
 **Stack:** Next.js · React · TypeScript · MongoDB · Mongoose · Auth.js · Vercel · Cloudflare
 
-### Clydria — Digital Studio Website · In development
+### Amar Shanchay — Financial & Business Operating System · In development
 
-Building a responsive website with an emphasis on typography, interaction, reusable components, and clear service presentation.
+A multi-workspace platform for personal finance, shared living, and small-business operations.
 
-- Implementing the frontend with **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**.
-- Documenting engineering decisions and feature boundaries before expanding the application.
-- Refining desktop and mobile experiences with accessibility and performance in mind.
+- Built personal finance features for transactions, budgets, savings, liabilities, investments, and reports.
+- Developed shared-living workflows for meals, market expenses, member management, and settlements.
+- Expanded the business workspace toward inventory, sales, accounting, and modular industry-specific workflows.
 
-**Status:** Active development; not presented as a completed client project.
+**Stack:** React · TypeScript · Firebase / Firestore · Tailwind CSS
 
-### [Dhaka House Rent Prediction](https://github.com/arifhossainrumi/House_price_Prediction) · ML + Web Application
+**Source:** Private repository; public description only.
 
-Built a rental-price prediction project combining **Python and scikit-learn** for modeling, a **Flask API** for predictions, and a **Flutter Web** interface.
+### Clydria — Digital Design & Engineering Studio · In development
 
-## Earlier data analytics projects
+Building a digital studio and its web presence around thoughtful websites, e-commerce experiences, and custom web applications.
 
-Before focusing on full-stack engineering, I worked on analytics and visualization projects using Python, SQL, and Power BI.
+- Developing a responsive site with clear service presentation, reusable components, and refined typography.
+- Organizing work around documented architecture, engineering decisions, and maintainable feature boundaries.
+- Refining interaction, accessibility, and responsive behavior before launch.
 
-- **[Dhaka Ride-Hailing Analysis](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)** — Analyzed a *simulated* dataset of 15,000+ ride records, using Python, SQL, and Power BI to explore revenue patterns and traffic conditions.
-- **[Customer Shopping Behavior Analysis](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)** — Explored 3,900 retail transactions, built customer segments and a predictive model, and presented findings in Power BI.
+**Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-[See my earlier analytics project portfolio →](./PROJECTS.md)
+**Source:** Private repository; studio/site is not presented as a completed client project.
+
+## Other software projects
+
+- **The Lost Atlas — 2D Puzzle Adventure (Prototype)** — An Android-first Godot project with touch-based exploration, clue collection, an evidence-driven symbol puzzle, and contextual hints. *Godot · GDScript · Private source.*
+- **Personal Portfolio V2 — Self-managed Portfolio (In development)** — A new Next.js portfolio with service pages, SEO and accessibility foundations, automated quality checks, and a carefully gated database foundation. Admin/CMS and deployment work remain in progress. *Next.js · TypeScript · PostgreSQL / Neon · Drizzle · Private source.*
+
+## Data analytics & machine learning
+
+Earlier projects that shaped how I work with product data, experimentation, and business questions:
+
+- **[Dhaka House Rent Prediction](https://github.com/arifhossainrumi/House_price_Prediction)** — Rental-price modeling with Python and scikit-learn, a Flask prediction API, and a Flutter Web interface.
+- **[Dhaka Ride-Hailing Analysis](https://github.com/arifhossainrumi/Dhaka-Ride-Hailing-Analysis)** — Python, SQL, and Power BI analysis of a **simulated** dataset of 15,000+ rides.
+- **[Customer Shopping Behavior Analysis](https://github.com/arifhossainrumi/Customer-Shopping-Behavior-Analysis)** — Analysis and customer segmentation using 3,900 retail transactions, predictive modeling, and Power BI.
+- **[E-commerce Sales Analysis](https://github.com/arifhossainrumi/E-commerce-Sales-Analysis)** — Exploratory sales analysis, operational trends, and forecasting with Python.
+
+**[Explore the full curated project catalog →](./PROJECTS.md)**
+
+> Some active projects use private repositories. Their summaries describe the product and my work without exposing source code or confidential implementation details.
 
 ## Learning & certifications
 
@@ -99,7 +119,7 @@ Before focusing on full-stack engineering, I worked on analytics and visualizati
 
 ## Get in touch
 
-I enjoy connecting with developers, designers, and people working on useful digital products.
+I enjoy connecting with developers, designers, and people building useful digital products.
 
 - **LinkedIn:** [arifhossainrumi](https://www.linkedin.com/in/arifhossainrumi/)
 - **Portfolio:** [arifhossainrumi.com](https://arifhossainrumi.com)
